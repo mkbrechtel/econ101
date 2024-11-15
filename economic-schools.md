@@ -1,3 +1,5 @@
+# Economics schools
+
 ## Mercantilism (historical)
 
 [Mercantilism](https://en.wikipedia.org/wiki/Mercantilism) is an economic system that emphasizes the accumulation of wealth through trade and commerce. It was a dominant economic theory during the European Age of Discovery and the early modern period. Mercantilism focused on increasing a nation's wealth by increasing its exports and reducing its imports. This was achieved through a combination of protectionist policies, such as tariffs and quotas, and state-sponsored colonization and exploration.
