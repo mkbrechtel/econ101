@@ -54,6 +54,8 @@ Critiques of the Auctrian School include its emphasis on the role of markets in 
 
 Schumpeter's work has had a significant influence on the field of economics, particularly in the areas of economic development, innovation, and entrepreneurship. His theory of creative destruction has been applied to a wide range of industries, from technology to finance to retail, and has been used to explain the dynamics of economic growth and change.
 
+Schumpeterian (innovation) rents are the profits that are earned by firms that are able to introduce new technologies, products, or services to the market. These rents are a result of the fact that new technologies and products create new demand and increase the value of existing products and services, allowing firms to charge higher prices and earn higher profits. Schumpeterian rents are a source of economic growth, as they allow firms to invest in new technologies and products, create new jobs, and expand their market share. However, they can also lead to market concentration and the creation of monopolies, which can have negative consequences for consumers and society as a whole.
+
 ## Ostrom
 
 [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) was an American economist who is considered one of the founders of the field of institutional economics, which studies the role of institutions in shaping economic outcomes. She is best known for her work on the governance of common-pool resources, which are resources that are shared by a group of individuals and are subject to the problem of the "tragedy of the commons," in which individuals have an incentive to overexploit the resource.
