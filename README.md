@@ -1,6 +1,5 @@
 # econ101
 
-I wanna lern all about economics!
+I wanna learn all about economics!
 
-
-A lot of the content in this repo is AI generated, also i am not an economics expert, so please take everything with a grain of salt.
+**WARNING: A lot of the content in this repo is AI generated, also i am not an economics expert, i am mearly a humble learner, so please take everything with a grain of salt!**
