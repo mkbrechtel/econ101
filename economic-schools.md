@@ -44,3 +44,7 @@ The Austrian School of economics, which Hayek is a prominent figure of, is a het
 
 Critiques of the Auctrian School include its emphasis on the role of markets in coordinating economic activity, which can lead to the neglect of social and environmental concerns, and its assumption that markets are always efficient, which can overlook the presence of market failures and externalities.
 
+# Nash
+
+[John Nash](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) was an American mathematician who made fundamental contributions to game theory, a branch of mathematics that studies strategic interactions among rational decision-makers. He is best known for his work on non-cooperative games, which involve players making decisions independently of each other, and his development of the concept of Nash equilibrium, which is a solution concept that describes the outcome of a non-cooperative game in which each player's strategy is a best response to the strategies of the other players.
+
