@@ -10,3 +10,7 @@
 
 Last school before Adam Smith, the father of modern economics, came along.
 
+## Ibne Khaldun (historical)
+
+[Ibne Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) was a Muslim scholar and historian who lived in the 14th century. He is best known for his work "The Muqaddimah," which is considered one of the earliest and most influential works of sociology and economics. In the book, Ibne Khaldun developed a theory of economic cycles, known as the "asabiya cycle," which suggests that societies go through periods of expansion and contraction due to changes in social cohesion and group identity. He also made significant contributions to the study of history, politics, and culture.
+
