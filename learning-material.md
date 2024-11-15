@@ -36,3 +36,40 @@ Claude said:
 2. The Armchair Economist by Steven E. Landsburg
 3. The Black Swan: The Impact of the Highly Improbable by Nassim Taleb
 4. Thinking Fast and Slow by Daniel Kahneman
+
+# evaluation
+
+Claude "Can you elaborate on their philosophical and historical background?": 
+
+> Let me break down the philosophical and historical context of each:
+>
+> 1. Mankiw's Principles represents mainstream neoclassical economics that emerged in the late 19th century. His approach is deeply rooted in:
+> - The marginalist revolution (Jevons, Menger, Walras) that introduced marginal utility theory
+> - The Chicago School's emphasis on free markets and rational choice theory
+> - A methodological individualist approach where economic phenomena are explained through individual choices
+> His famous "10 principles" embody core neoclassical assumptions like rational self-interest and market efficiency. The text largely reflects the "Washington Consensus" that dominated economic policy thinking in the 1980s-90s.
+> 
+> 2. Marginal Revolution University's name itself references the marginalist revolution, but their approach is more heterodox:
+> - Strong influence from Austrian Economics (particularly Hayek's emphasis on knowledge problems and spontaneous order)
+> - Public Choice Theory (studying political behavior through economic methods)
+> - New Institutional Economics (focus on how institutions shape economic behavior)
+> Cowen and Tabarrok often emphasize market solutions but are more willing to acknowledge market failures and behavioral economics insights than traditional neoclassicals.
+> 
+> 3. CORE Econ represents a post-2008 financial crisis approach:
+> - Explicitly rejects the traditional neoclassical starting point of perfect competition and rational actors
+> - Incorporates insights from behavioral economics, institutional economics, and complexity theory
+> - Emphasizes historical context, power relationships, and environmental constraints
+> - Influenced by scholars like Joseph Stiglitz who argue for a more nuanced view of market efficiency
+> - Places greater emphasis on inequality and sustainability than traditional texts
+> 
+> A key philosophical difference between these approaches is their view of markets:
+> - Mankiw tends to emphasize market efficiency and minimal government intervention
+> - MRU takes a more nuanced view but still generally favors market solutions
+> - CORE is more skeptical of market outcomes and more open to various forms of market intervention
+> 
+> Their methodological approaches also differ:
+> - Mankiw relies heavily on simplified models and deductive reasoning
+> - MRU combines theoretical insights with empirical evidence and historical examples
+> - CORE starts with real-world problems and uses diverse methodological tools including empirical data, historical analysis, and game theory
+
+Let's see, maybe i can verify if this is true in the future.
