@@ -44,7 +44,29 @@ The Austrian School of economics, which Hayek is a prominent figure of, is a het
 
 Critiques of the Auctrian School include its emphasis on the role of markets in coordinating economic activity, which can lead to the neglect of social and environmental concerns, and its assumption that markets are always efficient, which can overlook the presence of market failures and externalities.
 
-# Nash
+## Nash
 
 [John Nash](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) was an American mathematician who made fundamental contributions to game theory, a branch of mathematics that studies strategic interactions among rational decision-makers. He is best known for his work on non-cooperative games, which involve players making decisions independently of each other, and his development of the concept of Nash equilibrium, which is a solution concept that describes the outcome of a non-cooperative game in which each player's strategy is a best response to the strategies of the other players.
 
+## Schumpeter
+
+[Joseph Schumpeter](https://en.wikipedia.org/wiki/Joseph_Schumpeter) was an Austrian economist who is considered one of the founders of the field of economic development and the theory of innovation. He is best known for his book "Theory of Economic Development," which argues that economic growth is driven by the creation of new technologies and the introduction of new products and markets. Schumpeter's theory of creative destruction suggests that economic growth involves the destruction of existing industries and the creation of new ones, as new technologies and products disrupt the status quo and create new opportunities for growth.
+
+Schumpeter's work has had a significant influence on the field of economics, particularly in the areas of economic development, innovation, and entrepreneurship. His theory of creative destruction has been applied to a wide range of industries, from technology to finance to retail, and has been used to explain the dynamics of economic growth and change.
+
+## Ostrom
+
+[Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) was an American economist who is considered one of the founders of the field of institutional economics, which studies the role of institutions in shaping economic outcomes. She is best known for her work on the governance of common-pool resources, which are resources that are shared by a group of individuals and are subject to the problem of the "tragedy of the commons," in which individuals have an incentive to overexploit the resource.
+
+Ostrom's work has shown that successful governance of common-pool resources can emerge from local institutions and social norms, rather than from centralized government intervention. She identified eight principles that are necessary for the sustainable governance of common-pool resources, including:
+
+1. Clearly defined boundaries: The resource must be clearly defined and bounded, with clear rules about who has access to it.
+2. Multiple stakeholders: The resource must be managed by a group of stakeholders who have a vested interest in its sustainable use.
+3. Collective decision-making: Decisions about the resource must be made collectively, through a process that is transparent, inclusive, and responsive to the needs and concerns of all stakeholders.
+4. Monitoring and enforcement: There must be mechanisms in place to monitor the use of the resource and to enforce the rules that govern its use.
+5. Graduated sanctions: Sanctions for violating the rules must be graduated, with milder penalties for minor infractions and more severe penalties for more serious violations.
+6. Conflict resolution mechanisms: There must be mechanisms in place to resolve conflicts that arise over the use of the resource.
+7. Adaptability: The rules and institutions governing the resource must be adaptable to changing circumstances, allowing for flexibility and innovation.
+8. Equity and fairness: The rules and institutions governing the resource must be fair and equitable, ensuring that all stakeholders have a voice and a fair share of the benefits.
+
+Ostrom's work has had a significant influence on the field of economics, particularly in the areas of environmental economics, public economics, and development economics. Her insights into the governance of common-pool resources have been applied to a wide range of contexts, from natural resources to public goods to digital commons.
