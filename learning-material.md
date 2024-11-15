@@ -1,3 +1,22 @@
+# Chosen learning materials
+
+## core econ
+
+### The Economy 2.0: Microeconomics
+
+Critical real world textbook with focus on microeconomics.
+
+### The Economy 2.0: Macroeconomics 
+
+Second part of the Economy 2.0 series foocusing on macroeconomics.
+
+### Doing Economics
+
+Data science for economics. Links from The Economy to this.
+
+
+
+
 # Source inquiry about econ teaching material
 
 ## DuckDuckGo
