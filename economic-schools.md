@@ -14,9 +14,25 @@ Last school before Adam Smith, the father of modern economics, came along.
 
 [Ibne Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) was a Muslim scholar and historian who lived in the 14th century. He is best known for his work "The Muqaddimah," which is considered one of the earliest and most influential works of sociology and economics. In the book, Ibne Khaldun developed a theory of economic cycles, known as the "asabiya cycle," which suggests that societies go through periods of expansion and contraction due to changes in social cohesion and group identity. He also made significant contributions to the study of history, politics, and culture.
 
-## Alfred Marshall (historical)
+## Marginalist revolution
+
+The marginal revolution was a major intellectual movement in economics that took place in the late 19th and early 20th centuries. It was led by a group of economists, including Leon Walras, Vilfredo Pareto, and Alfred Marshall, who sought to develop a more rigorous and mathematical approach to economics.
+
+The marginalist revolution focused on the concept of marginal utility, which refers to the additional satisfaction that a consumer derives from consuming an additional unit of a good. Marginalists argued that the price of a good should be determined by the marginal utility that consumers derive from it, rather than by its cost of production. This led to the development of the theory of consumer demand, which explains how consumers make decisions about which goods to buy and how much to buy.
+
+### Walras
+
+[Leon Walras](https://en.wikipedia.org/wiki/Leon_Walras) was a French mathematician and economist who is considered one of the founders of modern general equilibrium theory. He developed a mathematical model of a competitive economy, known as the Walrasian auction, which is used to determine the equilibrium prices and quantities of goods in a market.
+
+The Walrasian auction is a hypothetical market mechanism in which all goods are sold simultaneously in a series of auctions, with prices adjusting until a market equilibrium is reached. In this model, each consumer and producer is assumed to have perfect knowledge of the market and to act in their own self-interest. The Walrasian auction is a powerful tool for analyzing the effects of changes in demand, supply, or government policies on the economy as a whole.
+
+###  Marshall
 
 [Alfred Marshall](https://en.wikipedia.org/wiki/Alfred_Marshall) was a British economist who is considered one of the founders of modern economics. He made significant contributions to the fields of microeconomics, industrial organization, and international trade. Marshall is best known for his work "Principles of Economics," which was first published in 1890 and went through several editions. In the book, Marshall introduced the concept of marginal utility, which is a fundamental concept in modern microeconomic theory. He also developed the theory of the firm, which analyzes the behavior of firms in the market and their decision-making processes.
+
+### Pareto
+
+[Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) was an Italian economist and sociologist who is best known for his work on the distribution of income and wealth. He developed the Pareto principle, which states that in a distribution, a small number of individuals typically control a large proportion of the resources. Pareto also made significant contributions to the fields of sociology, political science, and engineering.
 
 ## Keyneynesianism
 
@@ -72,3 +88,14 @@ Ostrom's work has shown that successful governance of common-pool resources can 
 8. Equity and fairness: The rules and institutions governing the resource must be fair and equitable, ensuring that all stakeholders have a voice and a fair share of the benefits.
 
 Ostrom's work has had a significant influence on the field of economics, particularly in the areas of environmental economics, public economics, and development economics. Her insights into the governance of common-pool resources have been applied to a wide range of contexts, from natural resources to public goods to digital commons.
+
+## Lerner
+
+[Abba Lerner](https://en.wikipedia.org/wiki/Abba_Lerner) was an American economist who made significant contributions to the fields of economic theory and economic policy. He is best known for his work on the theory of industrial organization, particularly his contributions to the theory of oligopoly and the theory of monopolistic competition.
+
+Lerner's work on oligopoly challenged the traditional assumption that firms in an oligopolistic market have no incentive to collude and fix prices, as they would be able to gain market share at the expense of their competitors. Instead, Lerner argued that firms in an oligopolistic market may have an incentive to collude and fix prices if they believe that their competitors will also engage in collusive behavior, and if they believe that the benefits of collusion outweigh the costs. Lerner's work on oligopoly has been influential in shaping modern antitrust policy and has been used to justify the use of competition policy to address market power and promote competition.
+
+He developed a model of market socialism that combines elements of both market and socialist systems. In this model, the government plays a role in setting prices and allocating resources, but the market is still allowed to operate and allocate resources based on supply and demand. Lerner's model of market socialism has been influential in shaping modern economic policy and has been used to justify the use of market-based mechanisms to allocate resources in socialist systems.
+
+The Marshall-Lerner condition is a concept in economics that describes the relationship between the price elasticity of demand and the price elasticity of supply. It states that for a firm to be profitable in the long run, the sum of the price elasticities of demand and supply must be greater than one. This condition is named after Albert Marshall and Abba Lerner, who independently derived it in the early 20th century. The Marshall-Lerner condition is used to analyze the impact of changes in demand and supply on a firm's profitability and to understand the conditions under which a firm can sustain its profits over time.
+
