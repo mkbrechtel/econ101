@@ -14,6 +14,15 @@ Last school before Adam Smith, the father of modern economics, came along.
 
 [Ibne Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) was a Muslim scholar and historian who lived in the 14th century. He is best known for his work "The Muqaddimah," which is considered one of the earliest and most influential works of sociology and economics. In the book, Ibne Khaldun developed a theory of economic cycles, known as the "asabiya cycle," which suggests that societies go through periods of expansion and contraction due to changes in social cohesion and group identity. He also made significant contributions to the study of history, politics, and culture.
 
+## Classical economics
+
+Classical economics is a school of thought in economics that emerged in the late 18th and early 19th centuries. It was dominated by the work of Adam Smith, David Ricardo, and Thomas Malthus. Classical economists believed that the market was the most efficient way to allocate resources and that individual self-interest led to the common good. They also emphasized the importance of free trade and the division of labor.
+
+### Adam Smith
+
+[Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) was a Scottish philosopher, economist, and author who is considered one of the founders of modern economics. He is best known for his book "The Wealth of Nations," which was published in 1776. In the book, Smith argued that the market economy was the most efficient way to allocate resources and that individual self-interest could lead to the common good. He also made significant contributions to the study of moral philosophy and political economy. He formed the term of the "invisible hand" which is the idea that the market is self-regulating and that individual self-interest leads to the common good.
+
+
 ## Marginalist revolution
 
 The marginal revolution was a major intellectual movement in economics that took place in the late 19th and early 20th centuries. It was led by a group of economists, including Leon Walras, Vilfredo Pareto, and Alfred Marshall, who sought to develop a more rigorous and mathematical approach to economics.
